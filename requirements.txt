@@ -1,0 +1,8 @@
+google-adk
+litellm
+openai
+pydantic
+pandas
+python-dotenv
+requests
+paypal-payouts-sdk
