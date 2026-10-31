@@ -2,6 +2,8 @@
 
 A Google ADK-style agent project for preparing PayPal payout batches from Excel files, public Google Sheets, or natural-language payout requests. Payouts are submitted to the PayPal Sandbox, then a separate tracking flow can inspect item-level results and send SMTP follow-up emails for failed items.
 
+## DEMO URL: https://youtu.be/DV8VMhcQAik 
+
 ## What it does
 
 - Converts spreadsheet rows into structured PayPal payout items using an OpenAI structured response.
